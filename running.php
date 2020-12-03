@@ -6,7 +6,7 @@ echo "Download Siaran TV gratis bro \n";
 echo "Pilih Menu: \n";
 echo "[1] tampil nomor channel \n";
 echo "[2] jadwal siaran \n";
-echo "[3] Download Siaran berdasarkan judul (masih error) \n";
+echo "[3] Download Siaran berdasarkan judul \n";
 echo "[4] Download Siaran secara manual \n";
 
 $choose = trim(fgets(STDIN));
